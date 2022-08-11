@@ -65,9 +65,9 @@ public class Menu extends JPanel
 		AccionBotonesCompeticiones.reset();
 		AccionBotonesEquipoLocal.reset();
 		AccionBotonesEquipoRival.reset();
-		//AccionBotonesGradasAutomaticas.reset();
+		AccionBotonesGradasAutomaticas.reset();
 		AccionBotonesMenu.reset();
-		//AccionBotonesPartido.reset();
+		AccionBotonesPartido.reset();
 		
 		while(!AccionBotonesMenu.pulsado) 
 		{

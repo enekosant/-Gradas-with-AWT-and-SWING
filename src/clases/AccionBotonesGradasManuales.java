@@ -35,10 +35,9 @@ public class AccionBotonesGradasManuales extends AbstractAction
 			boton.setEnabled(false);
 			DatosPartido.asistencia = GradasManuales.asistencia;	
 			datos.cambiarAsistencia();
-			System.out.println(DatosPartido.asistencia);
 			datos.repaint();
 			frame.repaint();
-			JOptionPane.showMessageDialog(frame, "Asiento obtenido con exito", "Confirmacion", JOptionPane.INFORMATION_MESSAGE);
+			JOptionPane.showMessageDialog(frame, "Asiento obtenido con exito \n" + boton.getText(), "Confirmacion", JOptionPane.INFORMATION_MESSAGE);
 		}
 	}
 

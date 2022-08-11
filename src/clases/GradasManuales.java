@@ -53,17 +53,20 @@ public class GradasManuales extends JPanel
 	}
 	
 	public void anadirBotonesHorizontales(JPanel lamina,AccionBotonesGradasManuales aBoton) 
-	{
-		int numero = this.fila*this.columna;
-		
-		for(int i=0;i<numero;i++) 
+	{		
+		for(int i = 1;i<this.fila+1;i++) 
 		{
-			JButton asiento = new JButton();
-			Dimension dBotones =new Dimension(9,9);
-			asiento.setPreferredSize(dBotones);
-			asiento.setBackground(Color.GREEN);
-			asiento.addActionListener(aBoton);
-			lamina.add(asiento);
+			for(int j = 1; j<this.columna+1;j++) 
+			{
+				JButton asiento = new JButton();
+				asiento.setText("f: "+ i +" "+"c: " + j);
+				asiento.setForeground(Color.BLACK);
+				Dimension dBotones =new Dimension(9,9);
+				asiento.setPreferredSize(dBotones);
+				asiento.setBackground(Color.GREEN);
+				asiento.addActionListener(aBoton);
+				lamina.add(asiento);
+			}
 		}
 	}
 	

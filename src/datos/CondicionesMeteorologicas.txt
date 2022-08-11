@@ -1,4 +1,4 @@
-12
+13
 LLuvia ligera
 LLuvioso
 Mucho viento
@@ -11,3 +11,4 @@ Granizo
 Soleado
 Nubes y claros
 Nublado
+Tormenta Electrica

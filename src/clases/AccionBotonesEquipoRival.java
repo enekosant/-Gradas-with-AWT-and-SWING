@@ -64,6 +64,8 @@ public class AccionBotonesEquipoRival extends AbstractAction
 				sc.nextLine();
 			}
 		}
+		
+		DatosPartido.asistencia = 0;
 	}
 	
 	public static void reset() 
