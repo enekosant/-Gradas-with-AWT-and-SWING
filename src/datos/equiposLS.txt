@@ -1,0 +1,82 @@
+Liga Santander 
+20
+Alaves
+Vitoria-Gasteiz
+Medizorroza
+ALA
+Athletic Club
+Bilbao
+San Mames
+ATH
+Atletico de Madid
+Madrid
+Wanda Metropolitano
+ATM
+Barça
+Barcelona
+Camp Nou
+BAR
+Betis
+Sevilla
+Benito Villamarin
+BET
+Cadiz
+Cadiz
+Nuevo Mirandilla
+CAD
+Celta
+Vigo
+Abanca Balaidos
+CEL
+Elche
+Elche
+Manuel Martinez Valero
+ELC
+Espanyol
+Barcelona
+RCDE Cornella-El Prat
+ESP
+Getafe
+Getafe
+Coliseum Alfonso Perez
+GET
+Granada
+Granada
+Nuevo Los Carmenes
+GRA
+Levante
+Valencia
+Ciudad de Valencia
+LEV
+Mallorca
+Palma
+Estadi de Son Moix
+MLL
+Osasuna
+Pamplona
+El Sadar
+OSA
+Real Sociedad
+San Sebastian - Donostia
+Reale Arena
+RSO
+Rayo Vallecano
+Madrid
+Estadio de Vallecas
+RAY
+Real Madrid
+Madrid
+Santiago Bernabeu
+RMA
+Sevilla
+Sevilla
+Ramon Sanchez-Pijuan
+SEV
+Valencia
+Valencia
+Mestalla
+VAL
+Villarreal
+Villarreal
+de la Ceramica
+VIL

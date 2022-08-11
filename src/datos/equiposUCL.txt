@@ -1,0 +1,130 @@
+UEFA Champions League
+32
+Ajax
+Amsterdam
+Amsterdam Arena
+AJA
+Atalanta
+Bergamo
+Gewiss 
+ATT
+Atletico de Madrid
+Madrid 
+Wanda Metropolitano
+ATM
+Barça
+Barcelona
+Camp Nou
+BAR
+Bayern
+Munich
+Allianz Arena
+BAY
+Benfica
+Lisboa
+da Luz
+SLB
+Besiktas
+Estambul
+Vodafone Park
+BES
+Chealsea
+Londres
+Stamford Bridge
+CHE
+Club Brugge
+Brujas
+Jan Breydel
+BRU
+Borussia Dortmund
+Dortmund
+Signal Iduna Park
+DOR
+Dynamo Kiev
+Kiev
+Lobanovsky Dynamo
+DYK
+Inter
+Milan
+San Siro
+INT
+Juventus
+Turin
+Juventus
+JUV
+Leipzig
+Leipzig
+Red Bull Arena
+RBL
+Liverpool
+Liverpool
+Anfield
+LIV
+LOSC
+LIlle
+Pierre-Mauroy
+LIL
+Malmo
+Malmo
+Eleda
+MAL
+Manchester City
+Manchester
+Ciudad de Manchester
+MCI
+Manchester United
+Manchester
+Old Trafford
+MUN
+Milan
+Milan
+San Siro
+MIL
+PSG
+Paris
+Parque de los Principes
+PSG
+Porto
+Oporto
+do Dragao
+POR
+Real Madrid
+Madrid
+Santiago Bernabeu
+RMA
+Salzburg
+Salzburgo
+Red Bull Arena
+RMS
+Sevilla
+Sevilla
+Ramon Sanchez-Pizjuan
+SEV
+Shaktar Donetsk
+Donetsk
+Olimpico de Kiev
+SHK
+Sheriff
+Tiraspol
+Sheriff Sport Complex
+SHE
+Sporting
+Lisboa
+Jose Alvalade
+SLI
+Villarreal
+Villareal
+de la Ceramica
+VIL
+Wolfsburg
+Wolfsburgo
+Volkswagen Arena
+WOB
+Young Boys
+Berna
+Stade de Suisse
+YBO
+Zenit
+San Petersburgo
+Gazprom Arena
+ZSP

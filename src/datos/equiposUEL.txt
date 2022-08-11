@@ -1,0 +1,130 @@
+UEFA Europa League
+32
+Bayer 04
+Leverkusen
+BayArena
+B04
+Brondby
+Copenhage
+Bondby IF
+BIF
+Celtic
+Glasgow
+Celtic Park
+CEL
+Dinamo Zagreb
+Zagreb
+Maksimir
+DZA
+Eintracht Francfort
+Frankfurt
+Deutsche Bank Park
+SGE
+Midtjylland
+Herning
+MCH Arena
+FCM
+Fenerbache
+Estambul
+Ulker Fenerbache Sukru Saracoglu 
+FEN
+Ferenvaros
+Budapest
+Groupama Arena
+FER
+Galatasaray
+Estambul
+Nef Stayumu
+GAL
+Genk
+Genk
+Luminus Arena
+GNK
+Lazio
+Roma
+Olimpico de Roma
+LAZ
+Legia Warsaw
+Varsovia
+Mariscal Jozef Pilsudski
+WAR
+Leicester City
+Leicester
+King Power Stadium
+LEI
+Lokomotiv Moscow
+Moscu
+RZD Arena
+LMO
+Ludogorets Razgrad
+Razgrad
+Huvepharma Arena
+LUD
+Monaco
+Monaco
+Estadio Luis II
+AMO
+Napoli
+Napoles
+Diego Armando Maradona
+NAP
+Olympiacos
+El Pireo
+Georgios Karaiskakis
+OLY
+Olympique Lyonnais
+Lyon
+Stade des Lumieres
+LYO
+Olympique Marseille
+Marsella
+Velodrome
+OLM
+PSV
+Eindhoven
+Philips Stadion
+PSV
+Rangers
+Glasgow
+Ibrox Stadium
+RFC
+Rapid Wien
+Viena
+Allianz Stadion
+RAV
+Real Betis
+Sevilla
+Benito Villamarin
+BET
+Real Sociedad
+San Sebastian - Donostia
+Reale Arena
+RSO
+Red Star Belgrade
+Belgrado
+Rajko Mitic
+RSB
+Royal Antwerp
+Amberes
+Bosuilstadion
+ROA
+Sparta Prague
+Praga
+Generali Arena
+SPP
+Spartak Moscow
+Moscu
+Otkrytie
+SPM
+Sporting Braga
+Braga
+de Braga
+SBR
+Sturm Graz
+Graz
+Graz-Liebenau
+SGR
+West Ham United
+Londres
+Olimpico de Londres
+WHU

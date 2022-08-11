@@ -1,0 +1,12 @@
+Competiciones
+5
+Liga Santander
+70
+Liga SmartBank
+25
+Copa del Rey
+40
+UEFA Champions League
+100
+UEFA Europa League
+65

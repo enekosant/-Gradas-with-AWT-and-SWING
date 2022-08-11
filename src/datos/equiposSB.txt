@@ -1,0 +1,90 @@
+Liga SmartBank
+22
+Alcorcon
+Alcorcon
+Santo Domingo
+ALC
+Almeria
+Almeria
+Juegos Mediterraneos
+ALM
+Burgos
+Burgos
+El Plantio
+BUR
+Cartagena
+Cartagena
+Cartagonova
+CAR
+Eibar
+Eibar
+Ipurua
+EIB
+Fuenlabrada
+Fuenlabrada
+Fernando Torres
+FUE
+Girona
+Girona
+Montilivi
+GIR
+Huesca
+Huesca
+El Alcoraz
+HUE
+Las Palmas
+Las Palmas de Gran Canaria
+Gran Canaria
+LPA
+Leganes
+Leganes
+Butarque
+LEG
+Lugo
+Lugo
+Angel Carra
+LUG
+Mirandes
+Miranda de Ebro
+Anduva
+MIR
+Malaga
+Malaga
+La Rosaleda
+MGA
+Real Oviedo
+Oviedo
+Carlos Tartiere
+OVI
+Ponferradina
+Ponferrada
+El Toralin
+PON
+Real Sociedad B
+San Sebastian - Donostia
+Reale Arena
+RSOB
+Real Valladolid
+Valladolid
+Jose Zorrila
+VLL
+Real Zaragoza
+Zaragoza
+La Romareda
+ZAR
+Amorebieta
+Amorebieta
+Lezama Campo 2
+AMO
+Real Sporting
+Gijon
+El molinon
+SPO
+Tenerife
+Tenerife
+Heliodoro Rodriguez Lopez
+TEN
+Ibiza-Eivissa
+Ibiza
+Can Misses
+IBI
